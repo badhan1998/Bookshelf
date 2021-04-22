@@ -101,3 +101,9 @@ form textarea:focus::placeholder{
 .btn1:hover{
     box-shadow: inset 1000px 0 0 0 rgb(177, 71, 71);
     color: #fff;}
+footer{ 
+        color: #fff; 
+        text-align: center; 
+        margin: auto;
+        padding-bottom: 10px;
+}
